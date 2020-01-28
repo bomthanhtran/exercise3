@@ -15,8 +15,8 @@ namespace Exercise3
         private static readonly string fileNameOfFileToDecompress = @"C:\Users\bom89\OneDrive - Østfold University College\studier-2019-2020\.Net\exercise\Exercise3\datatext.txt.gz.sec";
         public static void Main()
         {
-            Compress();
-            //Decompress();
+            //Compress();
+            Decompress();
         }
 
         public static void Compress()
