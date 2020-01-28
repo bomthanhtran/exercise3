@@ -1,0 +1,22 @@
+Apple har laget mange solide teknologier opp gjennom årene, men en av de skjulte juvelene det er enkelt å glemme er Airdrop. Funksjonen som lar deg dele filer på tvers av Apple-dingser, enten dine egne eller andres, med et lite trykk på «Del»-knappen.
+
+nå jobbes det på spreng hos konkurrentene for å komme med en tilsvarende løsning på Android-plattformen. Samsung skal lansere noe som heter Quick Share, mens de kinesiske selskapene Xiaomi, Oppo og Vivo også jobber med en lignende teknologi.
+
+Samtidig jobber også Google med en lignende funksjon for hele Android-plattformen, kalt Nearby Sharing – opprinnelig kalt Fast Share – som skal la Android-brukere enkelt dele filer mellom enhetene sine.
+
+Funksjonen skal være en videreføring av Android Beam, som brukte NFC, Bluetooth og WiFi for å dele filer mellom enheter, men som ble stengt ned av Google i fjor.
+
+Med Nearby Sharing skal du få omtrent nøyaktig samme funksjonalitet som det Apples Airdrop byr på i dag, i tillegg til et par småjusteringer.
+
+Du kan velge hvilken konto du vil dele fra, hvilket navn enheten din skal ha når den dukker opp på skjermen hos andre og synligheten for de rundt deg. Setter du deg som skjult er du nødt til å åpne appen for å kunne motta filer – ellers vil du kunne motta filer uansett. Ganske likt som Apple Airdrop, altså.
+
+Funksjonen er fortsatt ikke offisielt lansert ennå, men nettstedet XDA Developers klarte å få det til å fungere på to Google Pixel-mobiler – Pixel 2 XL og Pixel 4.
+
+I demoen får vi se funksjonen fungere ganske så sømløst. Det første bildet de forsøker å sende over går raskt og smidig, men de har litt mer problemer med en videofil, selv om også dét går til slutt.
+
+Fortsatt noen begrensninger
+Funksjonen har fortsatt en relativt stor begrensning i form av at den bare er villig til å sende filer til enheter som er innenfor 30 centimeter. Dette er trolig en begrensning som vil være borte når funksjonen lanseres.
+
+En annen finurlighet er at Nearby Sharing lar deg spesifisere om du vil la mobilen bruke mobildata for fildeling. Google lar deg velge mellom mobildata, bare WiFi eller overføring uten Internett. Sammenlignet med Airdrop virker dette som en ganske stor begrensning hvis man er nødt til å sende filer via Internett. Airdrop bruker Bluetooth for å identifisere en annen Apple-enhet, og oppretter en direkte WiFi-linje mellom de to enhetene for selve filoverføringen. Hvis Android-funksjonaliteten potensielt vil kreve mobildata kan det hende man ikke ønsker å sende så mange bilder eller videoer likevel.
+
+Det er ennå ikke kjent når funksjonen rulles ut for fullt.
